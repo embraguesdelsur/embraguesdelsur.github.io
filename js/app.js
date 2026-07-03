@@ -101,7 +101,7 @@ function mostrarProductos(listaProductos) {
 
 // Función auxiliar para enviar un mensaje abierto a WhatsApp
 function enviarConsultaGeneral() {
-    const miTelefono = "593983306051"; 
+    const miTelefono = "593985598575"; 
     const mensaje = `Hola, estuve revisando su catálogo web de embragues pero no encontré el repuesto exacto para mi vehículo (o tengo dudas extras). \n\n¿Me podrían ayudar confirmando disponibilidad o asesorándome con una cotización personalizada?`;
     
     const mensajeCodificado = encodeURIComponent(mensaje);
@@ -153,7 +153,7 @@ contenedorProductos.addEventListener('click', (e) => {
 });
 
 function enviarWhatsApp(producto) {
-    const miTelefono = "593983306051"; 
+    const miTelefono = "593985598575"; 
 
     const mensaje = `Hola, estoy interesado en cotizar el siguiente repuesto:\n\n- *Componente:* ${producto.componente}\n- *Vehículo:* ${producto.marca_vehiculo} ${producto.modelo_vehiculo}\n- *Marca Repuesto:* ${producto.marca_repuesto}\n- *Especificaciones:* ${producto.especificaciones || 'No especificadas'}\n- *Precio de lista:* $${producto.precio_nuevo.toFixed(2)}\n${producto.servicio_asociado.ofrece_rectificacion_volante ? `- *¿Desea combo rectificación?:* Sí (+$${producto.servicio_asociado.precio_combo_rectificacion.toFixed(2)})` : ''}\n\n¿Tienen disponibilidad inmediata para retirar o realizar envio?`;
 
