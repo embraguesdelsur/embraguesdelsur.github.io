@@ -14,7 +14,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/sail.jpg",
-    "imagen_embrague": "imagenes/embragues/valeo.jpg"
+    "imagen_embrague": "./imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-CHEV-SAIL14",
