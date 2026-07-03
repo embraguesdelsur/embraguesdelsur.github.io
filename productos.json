@@ -14,7 +14,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/sail.jpg",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-CHEV-SAIL14",
@@ -31,7 +31,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/sail.jpg",
-    "imagen_embrague": "imagenes/embragues/caja-seco.JPG"
+    "imagen_embrague": "imagenes/embragues/seco.jpg"
   },
   {
     "id": "EMB-NIS-SENTRA16",
@@ -48,7 +48,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/nissan-sentra.jpg",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-NIS-SENTRA16",
@@ -65,7 +65,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/nissan-sentra.jpg",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-NIS-SENTRA16",
@@ -82,7 +82,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/nissan-sentra.jpg",
-    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+    "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
     "id": "EMB-CHEV-AVEO 1.4",
@@ -99,7 +99,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/activo.png",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-CHEV-AVEO1.6",
@@ -116,7 +116,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/emotion.jpg",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-CHEV-AVEO",
@@ -133,7 +133,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/family.png",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-CHEV-AVEO",
@@ -150,7 +150,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/chevytaxi.jpg",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-MIT-MONTERO 2.6",
@@ -167,7 +167,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/montero1988.jpg",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-MIT-MONTERO 2.6",
@@ -184,7 +184,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/montero1988.jpg",
-    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+    "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
     "id": "EMB-NIS-TIDA 1.6",
@@ -201,7 +201,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/tida2008.png",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-NIS-TIDA 1.6",
@@ -218,7 +218,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/tida2008.png",
-    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+    "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
     "id": "EMB-NIS-TIDA 1.6",
@@ -235,7 +235,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "imagenes/autos/tida2008.png",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-CHEV-LUV 2.2",
@@ -252,7 +252,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+    "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
     "id": "EMB-CHEV-LUV 2.2",
@@ -269,7 +269,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+    "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
     "id": "EMB-CHEV-LUV 2.3",
@@ -286,7 +286,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+    "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
     "id": "EMB-JETOUR X70 1.5",
@@ -305,7 +305,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-DFSK-GLORY 560",
@@ -322,7 +322,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-G.W.- VOOLEX C-30",
@@ -339,7 +339,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-G.W.- M4",
@@ -356,7 +356,7 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-CHERRY-TIGGO 2",
@@ -375,6 +375,6 @@
     },
     "estado_stock": "Disponible",
     "imagen_vehiculo": "",
-    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+    "imagen_embrague": "imagenes/embragues/luk.jpg"
   }
 ]
